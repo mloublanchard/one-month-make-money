@@ -8,6 +8,7 @@ gem 'pg', group: :production
 gem 'rails_12factor', group: :production 
 gem 'bootstrap-sass'
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+gem 'figaro'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
